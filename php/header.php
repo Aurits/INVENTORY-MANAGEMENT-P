@@ -19,6 +19,7 @@
     <link rel="stylesheet" href="assets/plugins/fontawesome/css/all.min.css" />
     <link rel="stylesheet" href="assets/css/style.css" />
     <link rel="stylesheet" href="assets/css/bootstrap-datetimepicker.min.css" />
+    <link rel="stylesheet" href="assets/plugins/fullcalendar/fullcalendar.min.css" />
 
 </head>
 
@@ -196,6 +197,16 @@
                             <ul>
                                 <li><a href="newuser.php">New User </a></li>
                                 <li><a href="userlist.php">Users List</a></li>
+                            </ul>
+                        </li>
+                        <li class="submenu">
+                            <a href="javascript:void(0);"><img src="assets/img/icons/product.svg" alt="img" /><span>
+                                    Application</span>
+                                <span class="menu-arrow"></span></a>
+                            <ul>
+                                <li><a href="chat.php">Chat</a></li>
+                                <li><a href="calender.php">Calendar</a></li>
+                                <li><a href="email.php">Email</a></li>
                             </ul>
                         </li>
                         <li class="submenu">

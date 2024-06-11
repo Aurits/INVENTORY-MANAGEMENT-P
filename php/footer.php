@@ -13,6 +13,11 @@
 <script src="assets/plugins/sweetalert/sweetalerts.min.js"></script>
 <script src="assets/js/moment.min.js"></script>
 <script src="assets/js/bootstrap-datetimepicker.min.js"></script>
+
+<script src="assets/plugins/moment/moment.min.js"></script>
+<script src="assets/js/jquery-ui.min.js"></script>
+<script src="assets/plugins/fullcalendar/fullcalendar.min.js"></script>
+<script src="assets/plugins/fullcalendar/jquery.fullcalendar.js"></script>
 </body>
 
 </html>
